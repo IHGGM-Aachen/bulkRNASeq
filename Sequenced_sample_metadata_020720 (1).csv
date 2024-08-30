@@ -1,0 +1,57 @@
+PatientID,Gender,Age,TimepointFromOnset,Name,RNAseqID,Pseudotime,Disease traj,color_code
+#001,m,80,8,PC_Ki001_TA,J14108,4,Complicated (recovering),#E65826
+#001,m,80,10,PC_Ki001_TA2,J14109,4,Complicated (recovering),#E65826
+#001,m,80,15,PC_Ki001_TB,J14110,5,Mild (recovering),#F99B1C
+#001,m,80,18,PC_Ki001_TB2,J14111,6,recovery/asymptomatic,#FDC077
+#001,m,80,21,PC_Ki001_TC,J14112,6,recovery/asymptomatic,#FDC077
+#002,m,57,19,PC_Ki002_TA,J14113,1,Complicated (incremental),#E84F8C
+#002,m,57,21,PC_Ki002_TA2,J14114,2,Critical,#7031B9
+#003,f,80,3,PC_Ki003_TA,J14115,2,Critical,#7031B9
+#004,m,60,9,PC_Ki004_TA,J14116,1,Complicated (incremental),#E84F8C
+#004,m,60,11,PC_Ki004_TA2,J14117,3,Complicated with hyperinflammatory syndrom,#A04E9E
+#004,m,60,16,PC_Ki004_TB,J14118,5,Mild (recovering),#F99B1C
+#005,m,49,6,PC_Ki005_TA,J14119,1,Complicated (incremental),#E84F8C
+#005,m,49,8,PC_Ki005_TA2,J14120,3,Complicated with hyperinflammatory syndrom,#A04E9E
+#005,m,49,13,PC_Ki005_TB,J14121,6,recovery/asymptomatic,#FDC077
+#005,m,49,16,PC_Ki005_TB2,J14122,6,recovery/asymptomatic,#FDC077
+#006,m,70,12,PC_Ki006_TA,J14123,5,Mild (recovering),#F99B1C
+#006,m,70,14,PC_Ki006_TA2,J14124,5,Mild (recovering),#F99B1C
+#006,m,70,19,PC_Ki006_TB,J14125,6,recovery/asymptomatic,#FDC077
+#006,m,70,51,PC_Ki006_rec,J16395,7,Recovered,#51BBFE
+#c002,f,63,18,PC_Co002_TA,J14131,3,Complicated with hyperinflammatory syndrom,#A04E9E
+#c003,m,56,18,PC_Co003_TA,J14132,4,Complicated (recovering),#E65826
+#c003,m,56,20,PC_Co003_TA2,J14133,5,Mild (recovering),#F99B1C
+#c003,m,56,24,PC_Co003_TB,J14134,6,recovery/asymptomatic,#FDC077
+#c004,m,74,9,PC_Co004_TA,J14135,3,Complicated with hyperinflammatory syndrom,#A04E9E
+#c004,m,74,14,PC_Co004_TA2,J14136,1,Complicated (incremental),#E84F8C
+#c004,m,74,16,PC_Co004_TB,J14137,3,Complicated with hyperinflammatory syndrom,#A04E9E
+#c004,m,74,20,PC_Co004_TB2,J14138,4,Complicated (recovering),#E65826
+#c004,m,74,24,PC_Co004_TC,J14139,5,Mild (recovering),#F99B1C
+#c011,f,78,4,PC_Co011_TA,J14127,6,recovery/asymptomatic,#FDC077
+#c011,f,78,7,PC_Co011_TA2,J14128,6,recovery/asymptomatic,#FDC077
+#c011,f,78,11,PC_Co011_TB,J14129,6,recovery/asymptomatic,#FDC077
+#c011,f,78,14,PC_Co011_TB2,J14130,6,recovery/asymptomatic,#FDC077
+#c012,f,54,29,PC_Co012_TA,J14140,2,Critical,#7031B9
+#c012,f,54,36,PC_Co012_TB,J14141,3,Complicated with hyperinflammatory syndrom,#A04E9E
+#c012,f,54,43,PC_Co012_TC,J14142,5,Mild (recovering),#F99B1C
+#c012,f,54,50,PC_Co012_TD,J14143,5,Mild (recovering),#F99B1C
+#c012,f,54,57,PC_Co012_TE,J14144,5,Mild (recovering),#F99B1C
+#c013,f,69,5,PC_Co013_TA,J14145,4,Complicated (recovering),#E65826
+#c013,f,69,12,PC_Co013_TB,J14146,5,Mild (recovering),#F99B1C
+#c022,f,50,46,PC_Co022_TA,J14147,4,Complicated (recovering),#E65826
+#c022,f,50,48,PC_Co022_TA2,J14148,5,Mild (recovering),#F99B1C
+#007,m,29,45,PC_Ki007_rec,J14126,7,Recovered,#51BBFE
+#008,m,57,0,PC_Ki008_control,J16391,0,Healthy,#A7A9AC
+#009,f,42,0,PC_Ki009_control,J16392,0,Healthy,#A7A9AC
+#011,m,57,0,PC_Ki011_control,J16393,0,Healthy,#A7A9AC
+#010,m,65,0,PC_Ki010_control,J16394,0,Healthy,#A7A9AC
+ctr10,m,44,0,SYS_10_control,I21803,0,Healthy,#A7A9AC
+ctr11,m,40,0,SYS_11_control,I21812,0,Healthy,#A7A9AC
+ctr2,f,41,0,SYS_2_control,I21759,0,Healthy,#A7A9AC
+ctr3,m,42,0,SYS_3_control,I21793,0,Healthy,#A7A9AC
+ctr4,m,37,0,SYS_4_control,I21808,0,Healthy,#A7A9AC
+ctr5,m,37,0,SYS_5_control,I21746,0,Healthy,#A7A9AC
+ctr6,m,44,0,SYS_6_control,I21800,0,Healthy,#A7A9AC
+ctr7,m,38,0,SYS_7_control,I21794,0,Healthy,#A7A9AC
+ctr8,f,35,0,SYS_8_control,I21765,0,Healthy,#A7A9AC
+ctr9,m,35,0,SYS_9_control,I21824,0,Healthy,#A7A9AC

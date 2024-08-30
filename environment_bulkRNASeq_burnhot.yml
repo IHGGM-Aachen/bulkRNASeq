@@ -1,0 +1,21 @@
+name: rnaseq_microbiome
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - r-base
+  - r-ggrepel
+  - r-biocmanager
+  - r-readr
+  - r-data.table
+  - r-tidyverse
+  - bioconductor-deseq2
+  - bioconductor-topgo
+  - bioconductor-complexheatmap
+  - r-rcolorbrewer
+  - bioconductor-rgraphviz
+  - bioconductor-genefilter
+  - bioconductor-geneplotter
+  - bioconductor-org.hs.eg.db
+  - r-irkernel
